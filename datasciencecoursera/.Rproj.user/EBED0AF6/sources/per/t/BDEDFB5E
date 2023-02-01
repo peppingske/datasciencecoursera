@@ -1,8 +1,8 @@
 {
     "id": "BDEDFB5E",
-    "path": "~/GitHub/datasciencecoursera/datasciencecoursera/HelloWorld.Rmd",
-    "project_path": "HelloWorld.Rmd",
-    "type": "r_markdown",
+    "path": "~/GitHub/datasciencecoursera/datasciencecoursera/HelloWorld.md",
+    "project_path": "HelloWorld.md",
+    "type": "markdown",
     "hash": "3072381094",
     "contents": "",
     "dirty": false,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1675253552,
+    "lastKnownWriteTime": 1675253884,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1675253552104,
+    "last_content_update": 1675253884294,
     "read_only": false,
     "read_only_alternatives": []
 }
